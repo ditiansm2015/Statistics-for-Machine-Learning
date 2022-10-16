@@ -16,3 +16,7 @@ Day 6 - How to Calculate PDF and CDF (also check notebook)
 Day 7 - How to use CDF in our analysis
 
 Day 8 - Normal Distribution (No Code, check notebook)
+
+Day 9 - Standardization using Z Score
+
+Day 10 - Central Limit Theorem (only theory in ipynb file)
