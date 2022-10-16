@@ -8,3 +8,5 @@ Day 2 - Descriptive Statistics Part 2 - Measure of Central Tendency (Mean, Media
 Day 3 - Descriptive Statistics Part 3 - Measure of Spread (Range, Percentile, Variance, SD, IQR, Mean/Median Absolute Deviation etc)
 
 Day 4 - Probability Density Function
+
+Day 5 - Cumulative Distribution Function.ipynb
