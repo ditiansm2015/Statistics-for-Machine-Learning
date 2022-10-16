@@ -11,7 +11,7 @@ Day 4 - Probability Density Function
 
 Day 5 - Cumulative Distribution Function
 
-Day 6 - How to Calculate PDF and CDF
+Day 6 - How to Calculate PDF and CDF (also check notebook)
 
 Day 7 - How to use CDF in our analysis
 
