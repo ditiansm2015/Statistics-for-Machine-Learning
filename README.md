@@ -9,4 +9,10 @@ Day 3 - Descriptive Statistics Part 3 - Measure of Spread (Range, Percentile, Va
 
 Day 4 - Probability Density Function
 
-Day 5 - Cumulative Distribution Function.ipynb
+Day 5 - Cumulative Distribution Function
+
+Day 6 - How to Calculate PDF and CDF
+
+Day 7 - How to use CDF in our analysis
+
+Day 8 - Normal Distribution (No Code, check notebook)
